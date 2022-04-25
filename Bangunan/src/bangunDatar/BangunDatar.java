@@ -11,6 +11,10 @@ package bangunDatar;
 public class BangunDatar {
     public void hitungLuas(){
         System.out.println("Belum terdefinisi / Belum jelas luas apa yang akan di hitung");
+        System.out.println("Belum terdefinisi / Belum jelas luas apa yang akan di hitung");
+        System.out.println("Belum terdefinisi / Belum jelas luas apa yang akan di hitung");
+        System.out.println("Belum terdefinisi / Belum jelas luas apa yang akan di hitung");
+        System.out.println("Belum terdefinisi / Belum jelas luas apa yang akan di hitung");
     }
     public void hitungKeliling(){
         System.out.println("Belum terdefinisi / Belum jelas luas apa yang akan di hitung");
